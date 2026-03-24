@@ -1,3 +1,5 @@
+known_faces_path = "known_faces"
+
 def enroll_trusted_users(known_faces_path='known_faces'):
     """Enrolls trusted users by their face images."""
     known_embeddings = {}
