@@ -1,0 +1,9 @@
+opencv-python
+numpy
+gtts
+pygame
+SpeechRecognition
+pyaudio
+deepface
+tensorflow
+tf-keras
